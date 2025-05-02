@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">Cybersecurity Enthusiast | Unreal Engine Developer | Terrain & Virtual Environments Explorer</h3>
+<h3 align="center">Cybersecurity Enthusiast | Unreal Engine Developer | Terrain Explorer & Virtual Environments Enthusiast</h3>
 
 ---
 
