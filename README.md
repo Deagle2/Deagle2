@@ -8,6 +8,10 @@
   <a href="https://www.youtube.com/watch?v=f_BwTc0UUR4" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+</a>
+
   <a href="https://www.youtube.com/watch?v=UDlkbUuxZ6w" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
