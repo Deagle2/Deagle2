@@ -34,8 +34,9 @@
 
 <h3 align="left">🏆 TryHackMe Profile:</h3>
 <p align="center">
+  
   <img src="https://tryhackme-badges.s3.amazonaws.com/Natzz.png" alt="Your Image Badge" />
-
+  
 </p>
 
 
