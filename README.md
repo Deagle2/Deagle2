@@ -33,7 +33,10 @@
 ---
 
 <h3 align="left">🏆 TryHackMe Profile:</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Natzz.png?cache-control=no-cache" alt="TryHackMe Badge" width="200"/>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Natzz.png?cache-control=no-cache" alt="TryHackMe Badge" width="200"/>
+</p>
+
 
 
 
