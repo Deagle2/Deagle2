@@ -27,8 +27,10 @@
   <a href="https://in.pinterest.com/pin/12736811442205768/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
   </a>
+<a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
+    <img width="100" height="100" alt="pixil-frame-0" src="https://github.com/user-attachments/assets/d17874cc-09e5-4bc1-b0a6-e9c26f6fef54" style="display: inline-block;"/>
+  </a>
 </p>
-
 
 ---
 
