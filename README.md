@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<h3 align="left">🏆 TryHackMe Profile:</h3>
+<p align="center">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Natzz.png" alt="Your Image Badge" width="350" alt="THM Badge top 5%" />
+</p>
 <!--
 **Deagle2/Deagle2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
