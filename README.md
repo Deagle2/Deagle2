@@ -39,12 +39,6 @@
 
 ---
 
-<h3 align="center"> Stats: </h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deagle2&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=40" />
-</p>
-
----
 <p align="center">
   <img src="https://media.giphy.com/media/wOOq4fy1cJ0gmz8mLs/giphy.gif" alt="Sorayama" width="300"/>
 </p>
