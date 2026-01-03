@@ -1,10 +1,12 @@
 <!-- Title -->
-<h1 align="center">Hi there 👋</h1><p align="center">
+<h1 align="center">Hi there! <img
+    width="20px"
+    alt="Waving Emoji"
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+  /></h1><p align="center">
   <img src="https://media.giphy.com/media/wOOq4fy1cJ0gmz8mLs/giphy.gif"
        alt="Sorayama"
        width="300"/>
-</p>
-</details>
 
 <!-- dropdown -->
 <details>
