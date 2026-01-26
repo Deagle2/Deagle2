@@ -4,7 +4,7 @@
     alt="Waving Emoji"
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
   /></h1><p align="center">
-  <img src="https://media.giphy.com/media/wOOq4fy1cJ0gmz8mLs/giphy.gif"
+  <img src="https://media.tenor.com/Bv6sPMO0UucAAAAM/masayoshi-takanaka-takanaka.gif"
        alt="Sorayama"
        width="300"/>
 
