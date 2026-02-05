@@ -53,8 +53,8 @@ Currently exploring low level design
 
 <p align="center">
   <kbd> NOW PLAYING </kbd><br>
-   <a href="https://youtu.be/IoQygnA3_Jg">
-    <i>The Indigo Streak — Greta Van Fleet</i>
+   <a href="https://www.youtube.com/watch?v=005w5ke8KcE">
+    <i>Discovery Zone - Dance II</i>
   </a>
 </p>
 <p align="center">
