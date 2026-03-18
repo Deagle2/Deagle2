@@ -3,10 +3,16 @@
     width="20px"
     alt="Waving Emoji"
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-  /></h1><p align="center">
+  /><h2 align="center">
+  <code>npx deagle2</code>
+</h2>
+
+</h1><p align="center">
   <img src="https://media.tenor.com/Bv6sPMO0UucAAAAM/masayoshi-takanaka-takanaka.gif"
        alt="Sorayama"
        width="300"/>
+      
+
 
 <!-- dropdown -->
 <details>
