@@ -4,7 +4,7 @@ on:
   workflow_dispatch: {}
 jobs:
   github-metrics:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     permissions: {contents: write}
     steps:
       - uses: lowlighter/metrics@latest
@@ -23,6 +23,5 @@ jobs:
           plugin_notable: yes
           config_timezone: Asia/Kolkata
           include_all_commits: yes
-          repositories_visibility: public
-          base_indepth: no
+          repositories_visibility: public 
  
