@@ -65,8 +65,5 @@ Currently exploring low level design
 </p>
 <p align="center">
 
-<p align="center">
-  <img src="./github-metrics.svg" />
-</p>
-
+ 
 
