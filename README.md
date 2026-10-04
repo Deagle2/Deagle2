@@ -2,20 +2,20 @@
 <h1 align="center">Hi there! <img
     width="20px"
     alt="Waving Emoji"
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    src="assets/gif.gif"
   /><h2 align="center">
   <code>npx deagle2</code>
 </h2>
 
 </h1><p align="center">
-  <img src="https://media.tenor.com/Bv6sPMO0UucAAAAM/masayoshi-takanaka-takanaka.gif"
-       alt="Sorayama"
-       width="300"/>
+  <img src="assets/takanaka.gif"
+       alt="Surfboard"
+       width="250"/>
       
 
 
 <!-- dropdown -->
-<details>
+<details> 
   <summary><b> Click me</b></summary>
   <br>
 
